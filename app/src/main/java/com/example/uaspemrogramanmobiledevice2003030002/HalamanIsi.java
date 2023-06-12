@@ -33,7 +33,6 @@ public class HalamanIsi extends AppCompatActivity {
                 this, android.R.layout.simple_spinner_item, Pilihanmenu );
         pilih.setAdapter(arrayAdapterbahasa);
     }
-    }
 
     public void nextapply() {
 
