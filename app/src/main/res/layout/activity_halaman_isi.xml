@@ -24,12 +24,10 @@
         android:layout_marginTop="80dp">
 
         <Spinner
+            android:id="@+id/spin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/spin"
-            android:entries="@array/menu"
-
-            />
+            android:entries="@array/menu" />
 
 
     </RelativeLayout>
